@@ -7,7 +7,7 @@ Investing is part of a healthy everyday financial life. They give individuals th
 <img src="https://user-images.githubusercontent.com/55526292/109746397-52903400-7ba3-11eb-9c6e-6e98c74262ea.gif" width=1000><br>
 
 ## Open-source libraries used
-- [react-vis](https://github.com/uber/react-vis) - Simple asynchronous HTTP requests with JSON parsing
+- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render common data visualization charts
 
 ________________________________________________________________________
 ## Prerequsites
