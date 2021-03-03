@@ -1,3 +1,4 @@
+@import "~react-vis/dist/style";
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,7 +6,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --black: #000000;
+  --darkBlue: #4B8DCB;
+  --gray: #58595B;
+  --green: #6EC38C;
+  --grey: #58595B;
+  --lightBlue: #00AEEF;
+  --limeGreen: #BED742;
+  --white: #FFFFFF;
+  --yellow: #FFF200;
 }
+
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
